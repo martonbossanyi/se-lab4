@@ -1,0 +1,3 @@
+GT4500,10,0,10,1
+TORPEDO,SINGLE  # primary fires
+TORPEDO,SINGLE  # secondary is next, it fails, primary is not tried
